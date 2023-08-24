@@ -12,12 +12,13 @@ Visit https://tic-tac-toe-am.netlify.app/ to run the application online.
 - [Instructions](#instructions)
 - [Installation and Usage](#installation-and-usage)
 
-<br>
+
 ## Description
 
 The Tic-Tac-Toe game, also known as "Noughts and Crosses," offers a simple yet engaging gameplay experience. Players take turns placing their symbols ("X" or "O") on the board with the objective of forming a winning line.
+<br>
 
-<img src="https://user-images.githubusercontent.com/81619759/129921090-a7ecc9f3-efc8-458d-9dd5-31f165663e0d.png" alt="tic-tac-toe game view" width="400"/>
+<img src="https://github.com/AndreaBitmind/tic-tac-toe/blob/main/tic-tac-toe.png?raw=true" alt="tic-tac-toe game view" width="300"/>
 
 <br>
 
