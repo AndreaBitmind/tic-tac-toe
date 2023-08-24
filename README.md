@@ -10,6 +10,7 @@ Visit https://tic-tac-toe-am.netlify.app/ to run the application online.
 - [Description](#description)
 - [Features](#features)
 - [Instructions](#instructions)
+- [Built with](#built-with)
 - [Installation and Usage](#installation-and-usage)
 
 
@@ -42,6 +43,13 @@ The Tic-Tac-Toe game, also known as "Noughts and Crosses," offers a simple yet e
 6. **Restarting the Game**: After a game has concluded, you can restart it to play another round.
 
    <br>
+
+## Built with 
+- Visual Code Studio: as code editor
+- CSS
+- React
+
+<br>
 
 ## Installation and Usage
 
